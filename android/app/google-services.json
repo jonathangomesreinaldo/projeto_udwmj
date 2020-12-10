@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21747053200",
+    "firebase_url": "https://projetoudwmj-default-rtdb.firebaseio.com",
+    "project_id": "projetoudwmj",
+    "storage_bucket": "projetoudwmj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21747053200:android:8c6fbd91c2349b3cf51e15",
+        "android_client_info": {
+          "package_name": "br.com.projetoudwmj.projeto_udwmj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21747053200-nacmqe9rb5hrat27gqf03qo33u1vvv9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfX1zVvLfknlbItPWuFNsO8F-VIvh3XZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21747053200-nacmqe9rb5hrat27gqf03qo33u1vvv9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
